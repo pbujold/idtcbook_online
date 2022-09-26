@@ -1,5 +1,4 @@
 # **CC iDTC x BE.Center Survey Sprint**
----
 
 Two areas of focus: End consumers and key influencers (not just in social media terms)
 
@@ -11,7 +10,7 @@ One quick survey to rule them all. The topics covered will be:
 ```{tableofcontents}
 ```
 
--------
+---
 
 In the United States, we know the systemic and lifestyle changes we need to make to tackle the climate emergency. What isn’t certain is whether people will adopt the highest-impact emission-reducing behaviors that get us there.
 So, what will it take to change the way we eat, travel, and consume energy?
